@@ -78,7 +78,7 @@ I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into
 - **Python Version:** 3.5+
 - **Packages:** [TQDM](https://tqdm.github.io/), [NumPy](https://numpy.org/), [OpenCV](https://opencv.org/)
 
-You can install the requirements by running the `install_requirements.bat`. You can always create a virtual environment to prevent your version critical installations from being modified (You need to switch to the virtual environment before running the batch file)
+You can install the required packages manually or by running the `install_requirements.bat`. You can always create a virtual environment to prevent your version critical installations from being modified (You need to switch to the virtual environment before running the batch file)
 
 ## Acknowledgements
 
