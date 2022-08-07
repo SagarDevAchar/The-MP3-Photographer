@@ -47,27 +47,27 @@ Amount of data that can be steganograhically encoded in a particular image is li
 
 Ultimately, the size of MP3 file is restricted to `1280 x 720 x 3 x 2 = 5,529,600 bits` or `675 kB`
 
-I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into the restriction limits with the following settings
+I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into the restriction limits with the following settings:
 
 <table>
   <tr>
-    <td>Maximum Duration</td>
+    <th>Maximum Duration</td>
     <td>1 minute</td>
   </tr>
   <tr>
-    <td>Bit Rate Mode</td>
+    <th>Bit Rate Mode</td>
     <td>Preset</td>
   </tr>
   <tr>
-    <td>Quality</td>
+    <th>Quality</td>
     <td>Medium, 145-185 kbps</td>
   </tr>
   <tr>
-    <td>Channel Mode</td>
+    <th>Channel Mode</td>
     <td>Force Export to Mono</td>
   </tr>
   <tr>
-    <td>Metadata</td>
+    <th>Metadata</td>
     <td>Cleared</td>
   </tr>
 </table>
