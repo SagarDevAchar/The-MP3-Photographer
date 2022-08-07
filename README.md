@@ -80,12 +80,13 @@ I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into
 
 You can install the required packages manually or by running the `install_requirements.bat`. You can always create a virtual environment to prevent your version critical installations from being modified (You need to switch to the virtual environment before running the batch file)
 
-## Acknowledgements
-
-ASCII Art by: [TextKool](https://textkool.com/en)
-
-Quickstart: [Secrets Hidden in Images - Computerphile](https://youtu.be/TWEXCYQKyDc)
-
 ## Disclaimer
 
 I do not own any rights to the images or music in the `IN\` directory. All rights are reserved by the respective artists and record labels
+
+## Acknowledgements and References
+
+- ASCII Art by: [TextKool](https://textkool.com/en)
+- Quickstart: [Secrets Hidden in Images (Steganography) - Computerphile](https://youtu.be/TWEXCYQKyDc)
+  
+[![TPM TMP Card](https://user-images.githubusercontent.com/51400137/183296028-ec078cdd-0f1d-4c92-b4ce-af0fe0266afc.png)](https://github.com/SagarDevAchar/ThePNGMusician)
