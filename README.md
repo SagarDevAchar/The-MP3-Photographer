@@ -83,6 +83,7 @@ You can install the required packages manually or by running the `install_requir
 ## Acknowledgements
 
 ASCII Art by: [TextKool](https://textkool.com/en)
+
 Quickstart: [Secrets Hidden in Images - Computerphile](https://youtu.be/TWEXCYQKyDc)
 
 ## Disclaimer
