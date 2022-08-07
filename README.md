@@ -83,7 +83,8 @@ You can install the required packages manually or by running the `install_requir
 ## Acknowledgements
 
 ASCII Art by: [TextKool](https://textkool.com/en)
+Quickstart: [Secrets Hidden in Images - Computerphile](https://youtu.be/TWEXCYQKyDc)
 
 ## Disclaimer
 
-I do not own any rights to the image or music in the `IN\` directory. All rights are reserved by the respective artists and record labels
+I do not own any rights to the images or music in the `IN\` directory. All rights are reserved by the respective artists and record labels
