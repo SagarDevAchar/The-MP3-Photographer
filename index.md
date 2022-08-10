@@ -23,7 +23,7 @@ The toolkit has three parts divided into three repositories:
 - `IN\` : This is where you place the JPG and MP3 files
 - `SRC\` : Contains the Steganographically Encoded PNG Files
 - `LICENSE` : GNU GPL v3.0 License for [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer)
-- `README.md` : Release Information
+- `README.txt` : Release Information
 - `The MP3 Photographer.exe` : Executable for Windows Devices (built using PyInstaller)
 
 ## Repository Structure
