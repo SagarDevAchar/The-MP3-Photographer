@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/51400137/183273753-6831695f-6f4e-45d3-84d4-885981a22172.png)
 
-![Active Version](https://img.shields.io/badge/version-v2022.07.19-blue)
+[![Active Version](https://img.shields.io/badge/version-v2022.07.19-blue)](https://github.com/SagarDevAchar/TheMP3Photographer/releases/download/release/The.MP3.Photographer.v2022.07.19.zip)
 [![GitHub issues](https://img.shields.io/github/issues/SagarDevAchar/TheMP3Photographer)](https://github.com/SagarDevAchar/TheMP3Photographer/issues)
 [![GitHub license](https://img.shields.io/github/license/SagarDevAchar/TheMP3Photographer)](https://github.com/SagarDevAchar/TheMP3Photographer/blob/main/LICENSE)
 
