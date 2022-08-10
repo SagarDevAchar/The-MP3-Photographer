@@ -22,7 +22,7 @@
 
 An LSB2 Steganography Encoder which encodes MP3 Audio into PNG Images to be played by [**The PNG Musician**](https://github.com/SagarDevAchar/ThePNGMusician)
 
-## About the project
+## About the Project
 
 This is secpnd part of the **Steganography Made Fun!** toolkit
 
