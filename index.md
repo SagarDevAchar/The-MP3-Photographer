@@ -84,7 +84,7 @@ I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into
 
 - I do not own any rights to the images or music in this repository. All rights are reserved by the respective artists and record labels
 - Most Antivirus Softwares falsely tag the EXE as suspicious piece of software. Please whitelist the EXE on your device to use it
-- 
+- The provided SHA256 Checksum is for the EXE provided and can be verified if required
 
 ## Acknowledgements and References
 
