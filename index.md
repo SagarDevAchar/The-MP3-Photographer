@@ -1,6 +1,7 @@
 [![Active Version](https://img.shields.io/badge/version-v2022.07.19-blue)](https://github.com/SagarDevAchar/TheMP3Photographer/releases/download/release/The.MP3.Photographer.v2022.07.19.zip)
 [![GitHub issues](https://img.shields.io/github/issues/SagarDevAchar/TheMP3Photographer)](https://github.com/SagarDevAchar/TheMP3Photographer/issues)
 [![GitHub license](https://img.shields.io/github/license/SagarDevAchar/TheMP3Photographer)](https://github.com/SagarDevAchar/TheMP3Photographer/blob/main/LICENSE)
+[![SHA256 Checksum](https://img.shields.io/badge/sha256-40b09911c7c90eb5a7f5c33e0996170dfdc4f4c1cd6d612f6f73c7d3322fd407-red)](https://emn178.github.io/online-tools/sha256_checksum.html)
 
 ![TPM TMP Logo 2](https://user-images.githubusercontent.com/51400137/183985573-6d67fdfd-2eeb-4eab-aacc-4327f63249c8.png)
 
@@ -83,6 +84,7 @@ I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into
 
 - I do not own any rights to the images or music in this repository. All rights are reserved by the respective artists and record labels
 - Most Antivirus Softwares falsely tag the EXE as suspicious piece of software. Please whitelist the EXE on your device to use it
+- 
 
 ## Acknowledgements and References
 
