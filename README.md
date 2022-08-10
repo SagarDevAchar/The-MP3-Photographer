@@ -22,6 +22,16 @@
 
 An LSB2 Steganography Encoder which encodes MP3 Audio into PNG Images to be played by [**The PNG Musician**](https://github.com/SagarDevAchar/ThePNGMusician)
 
+## About the project
+
+This is secpnd part of the **Steganography Made Fun!** toolkit
+
+The toolkit has three parts divided into three repositories:
+
+- Part 1: [The TXT Hider](https://sagardevachar.github.io/TheTXTHider/)
+- Part 2: [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer/) (This Repository)
+- Part 3: [The PNG Musician](https://sagardevachar.github.io/ThePNGMusician/)
+
 ## Repository Structure
 
 - `IN\` : This is where you place the JPG and MP3 files
@@ -51,23 +61,23 @@ I use [Audacity](https://www.audacityteam.org/) to limit the MP3 file sizes into
 
 <table>
   <tr>
-    <th>Maximum Duration</td>
+    <th>Maximum Duration</th>
     <td>1 minute</td>
   </tr>
   <tr>
-    <th>Bit Rate Mode</td>
+    <th>Bit Rate Mode</th>
     <td>Preset</td>
   </tr>
   <tr>
-    <th>Quality</td>
+    <th>Quality</th>
     <td>Medium, 145-185 kbps</td>
   </tr>
   <tr>
-    <th>Channel Mode</td>
+    <th>Channel Mode</th>
     <td>Force Export to Mono</td>
   </tr>
   <tr>
-    <th>Metadata</td>
+    <th>Metadata</th>
     <td>Cleared</td>
   </tr>
 </table>
@@ -88,5 +98,3 @@ I do not own any rights to the images or music in the `IN\` directory. All right
 
 - ASCII Art by: [TextKool](https://textkool.com/en)
 - Quickstart: [Secrets Hidden in Images (Steganography) - Computerphile](https://youtu.be/TWEXCYQKyDc)
-  
-[![TPM TMP Card](https://user-images.githubusercontent.com/51400137/183296028-ec078cdd-0f1d-4c92-b4ce-af0fe0266afc.png)](https://github.com/SagarDevAchar/ThePNGMusician)
