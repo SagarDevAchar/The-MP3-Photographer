@@ -6,9 +6,14 @@
 ![TPM TMP Logo 2](https://user-images.githubusercontent.com/51400137/183985573-6d67fdfd-2eeb-4eab-aacc-4327f63249c8.png)
 
 
-# [The MP3 Photographer](https://github.com/SagarDevAchar/TheMP3Photographer/releases/download/release/The.MP3.Photographer.v2022.07.19.zip)
+# The MP3 Photographer
 
-Part 2 of the **Steganography Made Fun!** Toolkit. Click on the heading above to download the latest release
+An LSB2 Steganography Encoder which encodes MP3 audio into PNG images
+
+Part 2 of the **Steganography Made Fun!** Toolkit
+
+- [Latest Release / Executables](https://github.com/SagarDevAchar/TheMP3Photographer/releases/download/release/The.MP3.Photographer.v2022.07.19.zip)
+- [Source Code](https://github.com/SagarDevAchar/TheMP3Photographer/archive/refs/tags/release.zip)
 
 ## About the Project
 
