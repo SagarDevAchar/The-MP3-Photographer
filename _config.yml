@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
 show_downloads: true
+title: The MP3 Photographer
+description: Convert MP3s to PNGs 😉
 github:
   zip_url: https://github.com/SagarDevAchar/TheMP3Photographer/releases/download/release/The.MP3.Photographer.v2022.07.19.zip
   tar_url: https://github.com/SagarDevAchar/TheMP3Photographer/archive/refs/tags/release.tar.gz
